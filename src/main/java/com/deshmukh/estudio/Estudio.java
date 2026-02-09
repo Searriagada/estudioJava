@@ -10,9 +10,7 @@ import com.deshmukh.estudio.unidad05ObjectOrientedApproach.Unidad05;
 public class Estudio {
 
     public static void main(String[] args) {
-        
-        Unidad05.tryStatic();
-        
+               
         
         
     }
