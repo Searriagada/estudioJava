@@ -1,5 +1,8 @@
 package com.deshmukh.estudio;
+import com.deshmukh.estudio.Employee;
 import com.deshmukh.estudio.unidad04Loops.Unidad04Loops;
+import com.deshmukh.estudio.unidad04Loops.ExerciseLoop;
+import com.deshmukh.estudio.unidad05ObjectOrientedApproach.Unidad05; 
 /**
  *
  * @author Usuario
@@ -7,6 +10,10 @@ import com.deshmukh.estudio.unidad04Loops.Unidad04Loops;
 public class Estudio {
 
     public static void main(String[] args) {
-        Unidad04Loops.labelNestedLoop(6);
+        
+        Unidad05.tryStatic();
+        
+        
+        
     }
 }

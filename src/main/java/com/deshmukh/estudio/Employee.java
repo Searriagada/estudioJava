@@ -8,6 +8,15 @@ import java.util.List;
  */
 public class Employee {
     
+    private static int count = 0; 
+    
+    static{
+        System.out.println("Creando objeto empleado...");
+    }
+    {
+        Employee.count= Employee.count +1;
+        System.out.println("Este es el empleado n° "+Employee.count);
+    }
     String name, lastName;
     int age, salary;
 
